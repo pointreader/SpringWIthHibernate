@@ -10,8 +10,12 @@ import javax.persistence.Table;
 import org.hibernate.annotations.GeneratorType;
 
 /*This is an entity class*/
+<<<<<<< HEAD
 /*This is while commiting directly from local to master*/
 /*This is from lower level*/
+=======
+/*This is from upstreamlevel*/
+>>>>>>> 3c4f58745f7d20e28365bef16580a301d6d75968
 
 @Entity
 @Table(name = "student")
