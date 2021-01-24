@@ -11,6 +11,7 @@ import org.hibernate.annotations.GeneratorType;
 
 /*This is an entity class*/
 /*This is while commiting directly from local to master*/
+/*This is from lower level*/
 
 @Entity
 @Table(name = "student")
